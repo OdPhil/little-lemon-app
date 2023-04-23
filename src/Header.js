@@ -1,8 +1,10 @@
 import React from 'react';
 
-function Header(props) {
+function Header() {
   return (
-   <header></header>
+    <header>
+      <img src="img/logo.svg" alt="Little Lemon logo" />
+    </header>
   );
 }
 

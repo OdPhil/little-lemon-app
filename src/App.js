@@ -1,16 +1,19 @@
 import './App.css';
+import React from 'react';
+import Header from './Header';
+import Nav from './Nav';
+import Main from './Main';
+import Footer from './Footer';
 
 function App() {
   return (
     <>
-      Homepage
-      <header></header>
-      <nav></nav>
-      <main></main>
-      <footer></footer>
+      <Header />
+      <Nav />
+      <Main />
+      <Footer />
     </>
   );
 }
-
 
 export default App;
