@@ -183,12 +183,11 @@
 }
 
 .hero-image img {
-  max-width: 80%;
-  width: 0vw;
+  max-width: 60%;
+  width: 50vw;
   height: 20em;
   object-fit: cover;
   border-radius: 16px;
-  
 }
 
 
